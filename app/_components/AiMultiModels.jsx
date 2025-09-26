@@ -1,3 +1,4 @@
+"use client";
 import AiModelList from "@/Shared/AiModelList";
 import React from "react";
 import { useState } from "react";
